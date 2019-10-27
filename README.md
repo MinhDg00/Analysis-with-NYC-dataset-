@@ -4,4 +4,3 @@ This project will analyze and provide insights on the demographic characteristic
 
 The data used in this project is [NYC Airbnb Open Data](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
-### On Progress
